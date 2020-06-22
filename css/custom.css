@@ -1,0 +1,49 @@
+
+/*membership page*/
+
+.headingtext{
+	font-size: 14px;
+}
+
+.barnertitleline{
+  position: relative;
+  outline: 0;
+  border: 0;
+  width: 13%;
+  height: 4px;
+  background: #ffc00d;
+  margin-bottom: 0;
+}
+
+.rowtitlemembership{color: #ffc12e; padding-right: 5px; font-size:25px;}
+
+.membershipcards{
+	width: 18rem;
+    height: 12rem;
+    background-color: #36264ed1;
+    border-radius: 7px;
+}
+
+.chooseplan{
+	background-color: #ffc12e;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    border-radius: 14px;
+    font-size: 18px;
+}
+
+/*hover active*/
+.main-navigation li a i:hover .main-navigation li a i:active {
+    margin-right: 15px;
+    font-size: 24px;
+}
+
+
+/*showing page css*/
+
+.imagebox{  
+  width: 100%;
+  position: relative;
+  background: linear-gradient(to right,#ffffff 50%, #ffc12e 50%, #ffc12e 50%);
+}
